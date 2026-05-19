@@ -9,7 +9,7 @@ import { FaInstagram, FaWhatsapp } from "react-icons/fa";
 
 const CONTACT_EMAIL = "tipperavenibalaji172@gmail.com";
 const WHATSAPP_NUMBER = "919581564131";
-const INSTAGRAM_HANDLE = "_random_frames";
+const INSTAGRAM_HANDLE = "_random__frames";
 
 const formSchema = z.object({
   name: z.string().min(2, "Name must be at least 2 characters"),
