@@ -35,7 +35,7 @@ export const DEFAULT_PROJECTS: Project[] = [
     title: "College Diaries",
     category: "YouTube",
     description: "Simple moments. Real memories. Cinematic college edit.",
-    youtubeUrl: "https://www.youtube.com/embed/xzRITpZKr7o",
+    youtubeUrl: "https://www.youtube.com/embed/xzRlTp7Kr7o",
     gradient: "from-orange-900 to-yellow-900",
   },
   {
