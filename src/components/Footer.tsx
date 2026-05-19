@@ -40,7 +40,7 @@ export function Footer() {
           {/* Social Icons */}
           <div className="flex gap-4">
             <a
-              href="https://instagram.com/_random_frames"
+              href="https://instagram.com/_random__frames"
               target="_blank"
               rel="noopener noreferrer"
               data-testid="link-footer-instagram"
