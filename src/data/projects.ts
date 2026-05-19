@@ -31,15 +31,16 @@ export interface Project {
 // ============================================================
 export const DEFAULT_PROJECTS: Project[] = [
   {
-   id: "1", title: "College Diaries", category: "YouTube",
+    id: "1",
+    title: "College Diaries",
+    category: "YouTube",
     description: "Simple moments. Real memories. Cinematic college edit.",
-    youtubeUrl: "https://www.youtube.com/embed/xzRITp7Kr7o",
-    thumbnail: "/thumbnails/college-diaries.jpg",
+    youtubeUrl: "https://www.youtube.com/embed/xzRITpZKr7o",
     gradient: "from-orange-900 to-yellow-900",
   },
   {
     id: "2",
-     title: "Numaish",
+    title: "Numaish",
     category: "YouTube",
     description: "Cinematic storytelling edit with dramatic visuals and smooth transitions.",
     youtubeUrl: "https://www.youtube.com/embed/QwoP-KB2Q1E",
@@ -74,7 +75,7 @@ export const DEFAULT_PROJECTS: Project[] = [
     title: "We in Rain",
     category: "YouTube",
     description: "Rainy atmosphere cinematic edit with emotional visual tone.",
-    youtubeUrl: "https://www.youtube.com/embed/LIB7HH4ti94",
+    youtubeUrl: "https://www.youtube.com/embed/LlB7HH4ti94",
     gradient: "from-indigo-900 to-blue-900",
   },
   {
